@@ -1,6 +1,7 @@
 # Ruby Object Attributes Lab
 
-## Objectives 
+
+## Objectives
 
 1. Define ruby classes.
 2. Define methods that read from and write to instance variables.
